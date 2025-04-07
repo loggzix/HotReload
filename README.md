@@ -8,6 +8,6 @@ Install instructions on https://hotreload.net/
 - Unity->Window->Package Manager
 - Click "+" left corner
 - Add package from git URL
-- Insert https://github.com/loggzix/FullscreenEditor.git
+- Insert https://github.com/loggzix/HotReload.git
 - Add
 - Done
