@@ -1,3 +1,4 @@
+![HotReloadLogo](https://hotreload.net/logo.png?w=256&q=75)
 
 # Hot Reload for Unity
 
@@ -5,9 +6,4 @@ Edit **any C# function** and get immediate updates in your game. Hot Reload work
 
 Install instructions on https://hotreload.net/
 
-- Unity->Window->Package Manager
-- Click "+" left corner
-- Add package from git URL
-- Insert https://github.com/loggzix/HotReload.git
-- Add
-- Done
+![Modify2dJumpingGameDemo](https://hot-reload-assets.s3.amazonaws.com/assets/hotreload_jump_demo.gif)
